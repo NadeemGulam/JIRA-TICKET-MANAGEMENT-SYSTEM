@@ -3,13 +3,13 @@
 }
 
 body{
-    margin: 0px;
+    margin: 0.5px;
     padding: 0px;
     background-color: #9845b1;
 }
 
 .toolbox-cont{
-    height: 5rem;
+    height: 4rem;
     background-color: #141E27;
     display: flex;
     align-items: center;
@@ -19,7 +19,7 @@ body{
 }
 
 .toolbox-priority-cont{
-    height: 3rem;
+    height: 7rem;
     background-color: #EEEDDE;
     width: 18rem;
     margin-left: 5rem;
